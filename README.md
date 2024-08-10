@@ -1,2 +1,2 @@
 # rubiks-cube-solver
-Using Reinforcement learning to solve a rubik's cube
+Using various algorithms to analyze and create a program that will solve a rubik's cube
